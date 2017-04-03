@@ -1,0 +1,2 @@
+# magnus
+Rails document serving
